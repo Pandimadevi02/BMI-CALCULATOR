@@ -1,0 +1,49 @@
+body{
+    margin:0%;
+    padding: 0%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+body {
+    width: 300px; /* Set the width of the container */
+    height: 200px; /* Set the height of the container */
+    background-image: url('bmi1.webp'); /* Set the background image */
+    background-size: cover; /* Cover the entire container with the background image */
+}
+
+  
+span{
+    color: rgb(11, 175, 234);
+}
+
+.container{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    padding: 75px;
+    background:rgb(5, 4, 7);
+    border-radius: 5px;
+     
+}
+
+input{
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+
+button{
+    color: white;
+    padding: 5px;
+    border:2px solid white;
+    background: rgb(14, 13, 13);
+    display: block;
+    margin: 20% auto 0;
+    cursor: pointer;
+}
+
+
+
